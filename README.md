@@ -1,5 +1,3 @@
-# CV-hand-gesture-detector
-
 # Hand Gesture Recognition using Computer Vision
 
 ## Overview
